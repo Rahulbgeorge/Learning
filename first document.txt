@@ -1,3 +1,4 @@
 This is my first document
 feature 2 also requires change over here
+extra feature is also added now
 in the master branch
